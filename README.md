@@ -1,5 +1,5 @@
 # Data Selfie Extension
 
-[dataselfie.it](dataselfie.it)
+[dataselfie.it](http://dataselfie.it)
 
 Coming soon.
